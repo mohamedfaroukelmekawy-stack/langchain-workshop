@@ -1,7 +1,7 @@
-# LangChain Workshop Project 🦜🔗
+## 🚀 Run Online
 
-This repository is a **personal learning project** where I explored and implemented
-core concepts of LangChain and LLM-based applications through hands-on notebooks.
+You can run this project directly on Google Colab:
 
-The project covers prompt engineering, chains, structured outputs, and agent-based workflows,
-with practical examples and experiments.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/mohamedfaroukelmekawy-stack/langchain-workshop/blob/main/langchain_workshop_overview.ipynb)
+
